@@ -3,7 +3,7 @@ import pyttsx3
 import speech_recognition as sr
 import webbrowser
 
-openai.api_key = "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"
+openai.api_key = "sk-...your secret key..."
 
 completion = openai.Completion()
 
