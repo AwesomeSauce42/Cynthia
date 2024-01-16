@@ -1,3 +1,3 @@
 # Cynthia
 OpenAI information assistant.
-Uses Chatgpt api to generate answers, and has speech recognition and Text-to-speech as well.
+It utilises speech recognition to generate queries, uses Chatgpt API to generate responses, and then provides them using text-to-speech.
